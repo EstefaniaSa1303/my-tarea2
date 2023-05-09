@@ -1,0 +1,37 @@
+.img{
+    width: 200px;
+    height: 100px;
+}
+#buttonAddNew{
+    background-color: #F5CBA7;
+    border-radius: 10px;
+}
+#inputs{
+    margin-left: 1rem;
+    background-color: #f6ecf3;
+    border-radius: 5px;
+}
+#buttonAdd{
+    float: left;
+    background-color:  #AED6F1;
+    border-radius: 10px;
+}
+#buttonCancel{
+    float: right;
+    background-color: #AED6F1;
+    border-radius: 10px;
+}
+#th2rem{
+    width: 2rem;
+}
+#th8rem{
+    width: 8rem;
+}
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+#fondo{
+    background: #ABEBC6 ;
+    height: 100vh;
+}
